@@ -25,3 +25,4 @@ app.MapRazorPages();
 app.Run();
 //testiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 //toimi ny
+//ihan kummillanine juttu jeejee
